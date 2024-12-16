@@ -15,5 +15,11 @@
 
 ## 文件根目录
 将文件放入shared中， html放在根目录下  命名index.html
+需要下载的文件 放到bin目录下
 ![](./README_IMAGES/root.png)
 
+
+
+# 可执行文件
+> 直接下载可执行exe, 不需要关心环境配置
+https://github.com/badApple001/HttpServer/releases/tag/1.0.0
