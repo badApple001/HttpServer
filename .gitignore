@@ -1,0 +1,4 @@
+.vs/*
+Release/shared/bin/*
+HttpServer/x64/*
+HttpServer/Release/*
